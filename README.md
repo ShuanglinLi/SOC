@@ -105,7 +105,7 @@ trained checkpoint. See `docs/tsne_visualization.md` for usage.
 If you use this repository, please cite our Interspeech 2026 paper:
 
 ```bibtex
-@inproceedings{soc_interspeech2026,
+@inproceedings{li2026geometric,
   title     = {Geometric Second-Order Feature Correlation Learning for Self-Supervised Speech Emotion Recognition},
   author    = {Shuanglin Li, Ruxiao Qian, Siyang Song},
   booktitle = {Proc. Interspeech},
